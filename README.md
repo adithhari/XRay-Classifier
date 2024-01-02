@@ -1,4 +1,4 @@
-# Enhancing Pneumonia Detection: A Comparative Study of CNN, DenseNet201, and VGG16 Utilizing Chest X-ray Images
+# Enhancing Pneumonia Detection
 This project aims to compare the performance metrics of a hand-curated CNN , DenseNet and VGG16 models using Keras in the classification of Chest X-Ray to identify Pneumonia and Covid-19 disease.
 > To view the paper publication on IRJET Journal, [click here](https://www.irjet.net/archives/V10/i11/IRJET-V10I1191.pdf). The paper is also available in the root of main branch in this repository in PDF format.
 
